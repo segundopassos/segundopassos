@@ -42,4 +42,5 @@ Acredito que persistência, curiosidade e uma atenção cuidadosa aos detalhes m
 #### Rede Sociais!
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"></code> [Behance][behance]
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" ></code> [linkedin]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=segundopassos&color=yellow" alt="Profile views" /> </p>
  
